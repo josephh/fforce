@@ -1,0 +1,22 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "josephh",
+            "default": true
+        },
+        {
+            "path": "force-app",
+            "package": "FormulaForce app",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "josephh",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "FormulaForce app": "0Ho3z0000008OQACA2"
+    }
+}
