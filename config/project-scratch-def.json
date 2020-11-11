@@ -1,7 +1,7 @@
 {
   "orgName": "jjobbings company",
   "edition": "Developer",
-  "features": [],
+  "features": ["Communities"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -13,6 +13,9 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
     }
   }
 }
