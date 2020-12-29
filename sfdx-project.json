@@ -2,15 +2,11 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "josephh",
-            "default": true
-        },
-        {
-            "path": "force-app",
             "package": "FormulaForce app",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "ancestorId": "05i3z0000008OZdAAM",
+            "default": true
         }
     ],
     "namespace": "josephh",
@@ -18,6 +14,7 @@
     "sourceApiVersion": "50.0",
     "packageAliases": {
         "FormulaForce app": "0Ho3z0000008OQACA2",
-        "FormulaForce app@0.1.0-1": "04t3z000001gR8YAAU"
+        "FormulaForce app@0.1.0-1": "04t3z000001gR8YAAU",
+        "FormulaForce app@0.1.0-2": "04t3z000001gR9MAAU"
     }
 }
